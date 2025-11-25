@@ -99,9 +99,9 @@ const Footer = () => {
       <div className="shape_ground">
         <Image src={shapeGround} alt="Ground Shape" />
       </div>
-      <div className="shape_dragonfly">
+      {/* <div className="shape_dragonfly">
         <Image src={shapeDragonfly} alt="Dragonfly" />
-      </div>
+      </div> */}
       <div
         className="shape_tree"
         data-aos="fade-left"

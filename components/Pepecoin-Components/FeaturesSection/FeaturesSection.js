@@ -3,7 +3,7 @@ import Link from "next/link";
 import shape1 from "/public/images/shapes/shape_tree_1.webp";
 import shape2 from "/public/images/shapes/shape_stone_1.webp";
 import shape3 from "/public/images/shapes/shape_dragonfly.png";
-import shape4 from "/public/images/shapes/shape_cartoon_11.webp";
+import shape4 from "/public/images/shapes/pagasa_cartoon_10.png";
 import Image from "next/image";
 
 const steps = [
@@ -117,9 +117,9 @@ const FeaturesSection = () => {
       <div className="decoration_item shape_stone">
         <Image src={shape2} alt="Stone" />
       </div>
-      <div className="decoration_item shape_dragonfly">
+      {/* <div className="decoration_item shape_dragonfly">
         <Image src={shape3} alt="Dragonfly" />
-      </div>
+      </div> */}
       <div
         className="decoration_item shape_frog"
         data-aos="fade-right"
