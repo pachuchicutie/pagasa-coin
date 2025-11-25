@@ -91,7 +91,7 @@ const FeaturesSection = () => {
         >
           <Link
             className="pepecoin_btn text-white"
-            href="/token"
+            href="https://pump.fun/coin/GucjhpbukU74Mr7bhpBV39kNBCHHCg4PR81XKJwnpump"
             onClick={ClickHandler}
           >
             <span className="btn_label">Buy Now</span>

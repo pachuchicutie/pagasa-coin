@@ -76,7 +76,7 @@ const Footer = () => {
             <div className="btns_group p-0 justify-content-center position-relative z-2">
               <Link
                 className="pepecoin_btn text-white"
-                href="https://pump.fun/"
+                href="https://pump.fun/coin/GucjhpbukU74Mr7bhpBV39kNBCHHCg4PR81XKJwnpump"
                 onClick={ClickHandler}
               >
                 <span className="btn_label">Buy Now</span>

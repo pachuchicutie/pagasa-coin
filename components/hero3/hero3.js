@@ -41,7 +41,7 @@ const Hero3 = () => {
               <li>
                 <NextLink
                   className="pepecoin_btn text-dark"
-                  href="https://pump.fun/"
+                  href="https://pump.fun/coin/GucjhpbukU74Mr7bhpBV39kNBCHHCg4PR81XKJwnpump"
                 >
                   <span className="btn_label">Buy Now</span>
                   <span className="btn_bg">

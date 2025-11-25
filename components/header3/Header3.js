@@ -260,7 +260,7 @@ const Header3 = (props) => {
                   <NavLink
                     onClick={ClickHandler}
                     className="pepecoin_btn text-dark"
-                    href="https://pump.fun/board"
+                    href="https://pump.fun/coin/GucjhpbukU74Mr7bhpBV39kNBCHHCg4PR81XKJwnpump"
                   >
                     <span className="btn_label">Buy Now</span>
                     <span className="btn_bg">
