@@ -17,7 +17,7 @@ const steps = [
     number: "02",
     title: "Get Some SOL",
     description:
-      "Have SOL in your wallet to switch to $[TOKEN]. If you don’t have any SOL, you can buy directly on Phantom, transfer from another wallet, or buy on another exchange and send it to your wallet.",
+      "Have SOL in your wallet to switch to $PAGASA. If you don’t have any SOL, you can buy directly on Phantom, transfer from another wallet, or buy on another exchange and send it to your wallet.",
   },
   {
     number: "03",
